@@ -7,7 +7,7 @@ This repository contains a Dockerized setup for a Django backend and a Vue.js fr
 1. **Clone the Repo**
 
     ```bash
-    git clone https://github.com/yourusername/dockerized-django-vue-app.git
+    git clone https://github.com/AbnerBissolli/dockerized-django-vue-app.git
     cd dockerized-django-vue-app
     ```
 
@@ -16,6 +16,7 @@ This repository contains a Dockerized setup for a Django backend and a Vue.js fr
     ```bash
     cp example.env .env
     ```
+    > **Warning!** The provided credentials are unsafe. Update this file with your credentials.
 
 3. **Build and Run**
 
