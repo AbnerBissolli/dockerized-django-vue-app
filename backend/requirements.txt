@@ -1,0 +1,7 @@
+django
+psycopg2
+django-health-check 
+django-cors-headers
+requests
+djangorestframework
+djangorestframework-simplejwt
