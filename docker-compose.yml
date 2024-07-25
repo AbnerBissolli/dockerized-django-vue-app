@@ -42,8 +42,6 @@ services:
       dockerfile: Dockerfile
     ports:
       - "3000:3000"
-    volumes:
-      - ./frontend/vuetify-project:/app
     depends_on:
       backend:
         condition: service_healthy
